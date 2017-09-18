@@ -24,6 +24,7 @@
     
     //-----
     // reset
+    // revert
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
