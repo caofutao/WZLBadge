@@ -21,6 +21,8 @@
     //aaaa
     //hahaha
     //xixixi
+    
+    -----
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
