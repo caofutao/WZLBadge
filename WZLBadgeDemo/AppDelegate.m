@@ -22,7 +22,8 @@
     //hahaha
     //xixixi
     
-    -----
+    //-----
+    // reset
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
