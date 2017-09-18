@@ -20,6 +20,7 @@
     return YES;
     
     //hahaha
+    //xixixi
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
