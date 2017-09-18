@@ -19,6 +19,8 @@
     // Override point for customization after application launch.
     //cft git test111
     return YES;
+    
+    //hahaha
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
