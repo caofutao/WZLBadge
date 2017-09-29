@@ -26,6 +26,7 @@
     // reset
     // revert
     //
+    UIView *view = [UILabel new];
 }
 - (void)test {}
 
